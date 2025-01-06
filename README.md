@@ -17,8 +17,7 @@
 
 - Title: พิกัดของแต่ละจังหวัดในประเทศไทย
 - Author: zkan(Github)
-- Link:  https://github.com/dataengineercafe/thailand-province-latitude-longitude/blob/main/tambon.csv
-         https://github.com/dataengineercafe/thailand-province-latitude-longitude/blob/main/provinces.csv
+- Link: https://github.com/dataengineercafe/thailand-province-latitude-longitude
         
 
 # Poster
