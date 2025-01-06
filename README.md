@@ -1,4 +1,4 @@
-<img width="308" alt="image" src="https://github.com/user-attachments/assets/48e0d983-2470-41ee-962f-13a24fb672e2" /><h1>[DADS5001] Mini Project - ACCIDENT DASHBOARD</h1>
+<h1>[DADS5001] Mini Project - ACCIDENT DASHBOARD</h1>
 
 # Member
 1. กฤติพงษ์ หมอสุยะ รหัส 6610422034
