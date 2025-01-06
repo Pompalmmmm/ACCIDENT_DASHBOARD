@@ -13,6 +13,14 @@
 - Author: กิตติพล สกุลลิ้ม
 - Link: [MOT Data Catalog - อุบัติเหตุบนโครงข่ายถนนของกระทรวงคมนาคม](https://datagov.mot.go.th/dataset/roadaccident)
 
+ข้อมูลละติจูด(latitude) และลองจิจูด(longitude)ของตำบลและศูนย์กลางแต่ละจังหวัดในประเทศไทย
+
+- Title: พิกัดของแต่ละจังหวัดในประเทศไทย
+- Author: zkan(Github)
+- Link:  https://github.com/dataengineercafe/thailand-province-latitude-longitude/blob/main/tambon.csv
+         https://github.com/dataengineercafe/thailand-province-latitude-longitude/blob/main/provinces.csv
+        
+
 # Poster
 
 [View PDF File](markdown/Poster_Accident_Report.pdf)
